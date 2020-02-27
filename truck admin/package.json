@@ -1,0 +1,30 @@
+{
+  "name": "truck admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "express-mysql-session": "^2.1.0",
+    "express-session": "^1.15.6",
+    "firebase-admin": "^6.3.0",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.23.0",
+    "mysql": "^2.16.0",
+    "node-input-validator": "^2.3.3",
+    "save": "^2.3.3",
+    "socket.io": "^2.2.0",
+    "turf": "^3.0.14",
+    "uuid": "^3.3.2"
+  }
+}
