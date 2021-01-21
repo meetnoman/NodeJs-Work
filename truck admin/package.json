@@ -23,7 +23,7 @@
     "mysql": "^2.16.0",
     "node-input-validator": "^2.3.3",
     "save": "^2.3.3",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "turf": "^3.0.14",
     "uuid": "^3.3.2"
   }
